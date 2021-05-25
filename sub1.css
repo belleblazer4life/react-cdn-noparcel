@@ -1,0 +1,29 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: monospace, sans-serif;
+}
+
+h3.sub1 {
+  color: dodgerblue;
+}
+
+h3.sub2 {
+  color: purple;
+}
+
+h3.sub3 {
+  color: coral;
+}
+#root-react {
+  margin: 10px;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+#sub-react {
+  margin: 10px;
+  padding: 5px;
+  border: 1px solid black;
+}
